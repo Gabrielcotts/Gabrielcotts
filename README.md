@@ -12,9 +12,9 @@ Busco minha primeira oportunidade na área de tecnologia como estagiário ou tra
 ---
 
 ## 🎓 Formação & Experiência
-* 🏫 **Bacharelado em Engenharia de Software** - UniCeub (Cursando).
-* 🏗️ **Temper Engenharia** - Gestão de caixa, apoio em processos e organização, organização e controle de documentos, gestão de estoque e processos internos.
-* 🔥 **Supremo Fogão** - Gestão administrativa e de estoque, experiência com atendimento ao cliente,  gestão de almoxarifado e processos internos, lançamento de dados e uso de sistemas administrativos.
+*  **Bacharelado em Engenharia de Software** - UniCeub (Cursando).
+*  **Temper Engenharia** - Gestão de caixa, apoio em processos e organização, organização e controle de documentos, gestão de estoque e processos internos.
+*  **Supremo Fogão** - Gestão administrativa e de estoque, experiência com atendimento ao cliente,  gestão de almoxarifado e processos internos, lançamento de dados e uso de sistemas administrativos.
   
 ---
 
@@ -30,7 +30,7 @@ Documentação da minha evolução técnica através do treinamento **DevDojo** 
 
 ## 🛠️ Habilidades e Tecnologias
 
-### 📊 Matriz de Competências
+###  Matriz de Competências
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
 | **Desenvolvimento** | Java (Lógica, POO, Arrays), Git, GitHub, IntelliJ IDEA |
