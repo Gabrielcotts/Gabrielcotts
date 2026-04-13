@@ -75,5 +75,5 @@ Documentação da minha evolução técnica através do treinamento **DevDojo** 
 
 ---
 <p align="center">
-  Desenvolvido com ☕ por Gabriel Cotts 🚀
+  Desenvolvido com ☕ por Gabriel Cotts
 </p>
