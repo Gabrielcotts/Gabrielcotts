@@ -1,34 +1,43 @@
 #  Portfólio 
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 Atualmente graduando em **Engenharia de Software** pelo UniCeub e aspirante a **Desenvolvedor Full Stack**. Sou um entusiasta da tecnologia, focado em desenvolver soluções eficientes e arquiteturas sólidas, com foco principal no ecossistema **Java**.
 
 ---
 
-<h2>🎯 Objetivo</h2>
+<h2> Objetivo</h2>
 
 Busco minha primeira oportunidade na área de tecnologia como estagiário ou trainee, com foco em desenvolvimento de software. Tenho grande interesse em atuar como desenvolvedor Full Stack e estou constantemente evoluindo minhas habilidades para construir soluções completas e eficientes.
 
 ---
 
-## 🎓 Formação & Experiência
+## Formação & Experiência
 *  **Bacharelado em Engenharia de Software** - UniCeub (Cursando).
 *  **Temper Engenharia** - Gestão de caixa, apoio em processos e organização, organização e controle de documentos, gestão de estoque e processos internos.
 *  **Supremo Fogão** - Gestão administrativa e de estoque, experiência com atendimento ao cliente,  gestão de almoxarifado e processos internos, lançamento de dados e uso de sistemas administrativos.
   
 ---
 
-## 📂 Projetos e Estudos (Java)
+## Projetos e Estudos (Java)
 
 Documentação da minha evolução técnica através do treinamento **DevDojo** e projetos acadêmicos:
 
 * **Lógica de Programação:** Controle de fluxo, loops (`for`/`while`) e tratamento de exceções simples.
 * **Estrutura de Dados:** Arrays unidimensionais e multidimensionais (matrizes) com iteração otimizada.
 * **POO:** Modelagem de classes de domínio (`Student`, `Professor`, `Carro`) e métodos com lógica de retorno.
+
+Apresento meus projetos, estudos e evolução como desenvolvedor:
+
+ **Acesse meu site:**  
+ https://sites.google.com/view/portifolio-dev/p%C3%A1gina-inicial
+
+ **Veja minha apresentação profissional:**  
+ https://docs.google.com/presentation/d/1Z2GWLbmGgnfagylWqHRctnM849YZ1W-N/edit
+
   
 ---
 
-## 🛠️ Habilidades e Tecnologias
+## Habilidades e Tecnologias
 
 ###  Matriz de Competências
 | Categoria | Tecnologias & Ferramentas |
@@ -63,7 +72,7 @@ Documentação da minha evolução técnica através do treinamento **DevDojo** 
 
 ---
 
-## 📈 Status do GitHub
+## Status do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrielcotts&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas de Gabriel">
