@@ -52,13 +52,15 @@ Apresento meus projetos, estudos e evolução como desenvolvedor:
 ### Visualização
 
 <p align="center">
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="IntelliJ" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img alt="Photoshop" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-  <img alt="Illustrator" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg">
-  <img alt="Blender" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
+  <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="IntelliJ" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+  <img alt="Photoshop" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" />
+  <img alt="Illustrator" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" />
+  <img alt="Blender" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" />
 </p>
+
+
 
 ---
 
