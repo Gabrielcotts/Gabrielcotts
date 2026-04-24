@@ -26,6 +26,35 @@ Documentação da minha evolução técnica através do treinamento **DevDojo** 
 * **Estrutura de Dados:** Arrays unidimensionais e multidimensionais (matrizes) com iteração otimizada.
 * **POO:** Modelagem de classes de domínio (`Student`, `Professor`, `Carro`) e métodos com lógica de retorno.
 
+---
+
+## Projetos e Estudos (C)
+
+Documentação da minha evolução técnica em linguagem C:
+
+* **Programação Estruturada:** Uso de condicionais, loops e funções.
+* **Ponteiros:** Manipulação de memória e passagem por referência.
+* **Entrada e Saída:** Utilização de `scanf` e `printf`.
+* **Arquivos:** Leitura e escrita com `fopen`, `fprintf`, `fscanf`.
+* **Programas Interativos:** Desenvolvimento de menus e validação de dados.
+
+* **Projetos desenvolvidos:**
+  * Calculadora com menu interativo  
+  * Simulador de caixa eletrônico  
+  * Sistema de leitura e escrita em arquivos  
+
+---
+
+## Automação com n8n
+
+Experiência com criação de fluxos automatizados:
+
+* Desenvolvimento de chat automatizado com fluxo de mensagens  
+* Integração de serviços e manipulação de dados  
+* Criação de workflows com lógica de automação  
+
+---
+
 Apresento meus projetos, estudos e evolução como desenvolvedor:
 
  **Acesse meu site:**  
@@ -42,8 +71,9 @@ Apresento meus projetos, estudos e evolução como desenvolvedor:
 ###  Matriz de Competências
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Desenvolvimento** | Java (Lógica, POO, Arrays), Git, GitHub, IntelliJ IDEA |
+| **Desenvolvimento** | Java (Lógica, POO, Arrays), C (Programação Estruturada, Ponteiros, Arquivos), Git, GitHub, IntelliJ IDEA |
 | **Design & 3D** | Photoshop, Illustrator, Blender, Canva |
+| **Automação** | n8n (Workflows, Integração de APIs, Automação de processos) |
 | **Corporativo** | Pacote Office (Excel Avançado), Gestão de Estoque e Dados |
 | **Idiomas** | Inglês (Intermediário) e Espanhol (básico) |
 
@@ -54,7 +84,7 @@ Apresento meus projetos, estudos e evolução como desenvolvedor:
  <p align="center">
   <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="C" height="50" src="https://static.vecteezy.com/system/resources/thumbnails/048/332/147/small/c-programming-icon-free-png.png" />
-   <img alt="n8n" height="25" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" />
+  <img alt="n8n" height="25" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" />
   <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img alt="IntelliJ" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
   <img alt="Photoshop" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" />
