@@ -51,10 +51,10 @@ Apresento meus projetos, estudos e evolução como desenvolvedor:
 
 ### Visualização
 
-<p align="center">
  <p align="center">
   <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img alt="C" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C" height="50" src="https://static.vecteezy.com/system/resources/thumbnails/048/332/147/small/c-programming-icon-free-png.png" />
+   <img alt="n8n" height="25" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" />
   <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img alt="IntelliJ" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
   <img alt="Photoshop" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" />
@@ -62,11 +62,7 @@ Apresento meus projetos, estudos e evolução como desenvolvedor:
   <img alt="Blender" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" />
 </p>
   
-
-
-
 ---
-
 
   ## Conecte-se comigo
 <p align="center">
