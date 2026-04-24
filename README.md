@@ -1,30 +1,45 @@
 #  Portfólio 
 
 ## Sobre Mim
-Atualmente graduando em **Engenharia de Software** pelo UniCeub e aspirante a **Desenvolvedor Full Stack**. Sou um entusiasta da tecnologia, focado em desenvolver soluções eficientes e arquiteturas sólidas, com foco principal no ecossistema **Java**.
+Atualmente graduando em **Engenharia de Software** pelo UniCeub e aspirante a **Desenvolvedor Full Stack**. Sou um entusiasta da tecnologia, focado em desenvolver soluções eficientes e arquiteturas sólidas, com foco principal em **Java**.
 
 ---
 
 <h2> Objetivo</h2>
 
-Busco minha primeira oportunidade na área de tecnologia como estagiário ou trainee, com foco em desenvolvimento de software. Tenho grande interesse em atuar como desenvolvedor Full Stack e estou constantemente evoluindo minhas habilidades para construir soluções completas e eficientes.
+Busco minha primeira oportunidade na área de tecnologia como estagiário, com foco em desenvolvimento de software. Tenho grande interesse em atuar como desenvolvedor Full Stack em um futuro próximo e estou constantemente evoluindo minhas habilidades para construir soluções completas e eficientes.
 
 ---
 
 ## Formação & Experiência
 *  **Bacharelado em Engenharia de Software** - UniCeub (Cursando).
-*  **Temper Engenharia** - Gestão de caixa, apoio em processos e organização, organização e controle de documentos, gestão de estoque e processos internos.
-*  **Supremo Fogão** - Gestão administrativa e de estoque, experiência com atendimento ao cliente,  gestão de almoxarifado e processos internos, lançamento de dados e uso de sistemas administrativos.
+*  **Temper Engenharia** - Gestão administrativa, apoio em processos e organização, controle de documentos, gestão de almoxarifado e processos internos, lançamento de dados e uso de ferramentas administrativas.
+*  **Supremo Fogão** - Gestão de caixa e de estoque, experiência com atendimento ao cliente,  gestão de estoque e processos internos.
   
 ---
 
 ## Projetos e Estudos (Java)
 
-Documentação da minha evolução técnica através do treinamento **DevDojo** e projetos acadêmicos:
-
 * **Lógica de Programação:** Controle de fluxo, loops (`for`/`while`) e tratamento de exceções simples.
 * **Estrutura de Dados:** Arrays unidimensionais e multidimensionais (matrizes) com iteração otimizada.
 * **POO:** Modelagem de classes de domínio (`Student`, `Professor`, `Carro`) e métodos com lógica de retorno.
+
+### Experiência com Java
+
+Desenvolvimento de aplicações em Java com foco em lógica de programação, orientação a objetos e construção de sistemas interativos.
+
+-  Programação estruturada (condicionais, loops e métodos)
+-  Orientação a Objetos (classes, atributos e encapsulamento básico)
+-  Manipulação de dados com `Scanner`
+-  Uso de arrays e estruturas de repetição
+-  Validação de dados e regras de negócio
+-  Aplicação de boas práticas (organização e separação de responsabilidades)
+
+ Projetos desenvolvidos:
+- Sistema bancário com operações de depósito, saque e consulta de saldo  
+- Sistema de login com validação de dados  
+- Sistema de cálculo de média de alunos  
+- Simulação de controle de produtos com POO  
 
 ---
 
@@ -39,9 +54,9 @@ Documentação da minha evolução técnica em linguagem C:
 * **Programas Interativos:** Desenvolvimento de menus e validação de dados.
 
 * **Projetos desenvolvidos:**
-  * Calculadora com menu interativo  
-  * Simulador de caixa eletrônico  
-  * Sistema de leitura e escrita em arquivos  
+  - Calculadora com menu interativo  
+  - Simulador de caixa eletrônico  
+  - Sistema de leitura e escrita em arquivos  
 
 ---
 
@@ -74,7 +89,7 @@ Apresento meus projetos, estudos e evolução como desenvolvedor:
 | **Desenvolvimento** | Java (Lógica, POO, Arrays), C (Programação Estruturada, Ponteiros, Arquivos), Git, GitHub, IntelliJ IDEA |
 | **Design & 3D** | Photoshop, Illustrator, Blender, Canva |
 | **Automação** | n8n (Workflows, Integração de APIs, Automação de processos) |
-| **Corporativo** | Pacote Office (Excel Avançado), Gestão de Estoque e Dados |
+| **Corporativo** | Pacote Office (Excel Intermediário), Gestão de Estoque e Dados |
 | **Idiomas** | Inglês (Intermediário) e Espanhol (básico) |
 
 ---
