@@ -37,7 +37,7 @@ Desenvolvimento de aplicações em Java com foco em lógica de programação, or
 
  Projetos desenvolvidos:
 - Sistema bancário com operações de depósito, saque e consulta de saldo  
-- Sistema de login com validação de dados  
+- Sistema de login com validação de dados 
 - Sistema de cálculo de média de alunos  
 - Simulação de controle de produtos com POO  
 
