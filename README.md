@@ -109,7 +109,7 @@ Apresento meus projetos, estudos e evolução como desenvolvedor:
   
 ---
 
-  ### Conecte-se comigo
+  ## Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-cotts-dos-anjos-a167193b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/Cerol_Acerola/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
