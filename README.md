@@ -123,6 +123,8 @@ Apresento meus projetos, estudos e evolução como desenvolvedor:
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrielcotts&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas de Gabriel">
+</p> <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gabrielcotts&theme=dark" alt="Gabriel Cotts Streak">
 </p>
 
 
