@@ -78,7 +78,7 @@ Apresento meus projetos, estudos e evolução como desenvolvedor:
  **Veja minha apresentação profissional:**  
  https://docs.google.com/presentation/d/1Z2GWLbmGgnfagylWqHRctnM849YZ1W-N/edit
 
- **Veja meu plano de implementação:**
+ **Veja meu plano de implantação:**
  https://docs.google.com/document/d/1KJR4GziUgOID31VFtHm6D23fdlH1f7woygoiqUgKUtk/edit?usp=drive_link
 
   
