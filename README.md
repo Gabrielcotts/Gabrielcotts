@@ -17,7 +17,7 @@
 **Acesse meu portfólio**
 <p align="center">
 
-<a href="https://github.com/Gabrielcotts/GabrielCottsPortof-lio/blob/main/README.md">
+<a href="https://github.com/Gabrielcotts/GabrielCottsPortif-lio/blob/main/README.md">
 <img src="https://img.shields.io/badge/📁-Portfólio-blue?style=for-the-badge">
 </a>
 
