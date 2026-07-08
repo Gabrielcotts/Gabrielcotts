@@ -39,17 +39,20 @@
 
 ### Ferramentas
 
-<p align="center">
-  <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img alt="C" height="50" src="https://static.vecteezy.com/system/resources/thumbnails/048/332/147/small/c-programming-icon-free-png.png" />
-  <img alt="MySQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img alt="n8n" height="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" />
-  <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img alt="IntelliJ" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
-  <img alt="Photoshop" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" />
-  <img alt="Illustrator" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" />
-  <img alt="Blender" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" />
-</p>
+## 💻 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+
 
 ---
 
