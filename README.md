@@ -1,12 +1,11 @@
 
-
-## Sobre Mim
-Atualmente graduando em **Engenharia de Software** pelo UniCeub e aspirante a **Desenvolvedor Full Stack**. Sou um entusiasta da tecnologia, com foco no desenvolvimento de soluções eficientes, organização de código e construção de arquiteturas sólidas, principalmente no ecossistema **Java**.
-
----
-
-## Objetivo
-Busco minha primeira oportunidade na área de tecnologia como estagiário, com foco em desenvolvimento de software. Tenho interesse em atuar como desenvolvedor Full Stack em um futuro próximo e estou constantemente evoluindo minhas habilidades para construir soluções completas e eficientes.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007acc&center=true&vCenter=true&random=false&width=524&lines=+Bem-vindo+ao+meu+perfil!+" alt="Typing SVG">
+  </a>
+</div>
+<p align="center">
+  Me chamo Gabriel e sou estudante de Engenharia de Software na Centro Universitário de Brasília (UniCEUB).
 
 ---
 
