@@ -15,19 +15,19 @@
 **Acesse meu portifólio**
 <p align="center">
 
-<a href="LINK">
+<a href="https://github.com/Gabrielcotts/GabrielCottsPortif-lio/blob/main/README.md">
 <img src="https://img.shields.io/badge/📁-Portfólio-blue?style=for-the-badge">
 </a>
 
-<a href="LINK">
+<a href="https://sites.google.com/view/portifolio-dev/p%C3%A1gina-inicial">
 <img src="https://img.shields.io/badge/🌐-Website-success?style=for-the-badge">
 </a>
 
-<a href="LINK">
+<a href="https://docs.google.com/presentation/d/1Z2GWLbmGgnfagylWqHRctnM849YZ1W-N/edit">
 <img src="https://img.shields.io/badge/🎤-Apresentação-orange?style=for-the-badge">
 </a>
 
-<a href="LINK">
+<a href="https://docs.google.com/document/d/1KJR4GziUgOID31VFtHm6D23fdlH1f7woygoiqUgKUtk/edit?usp=drive_link">
 <img src="https://img.shields.io/badge/📄-Plano%20de%20Implantação-lightgrey?style=for-the-badge">
 </a>
 
