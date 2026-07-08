@@ -6,7 +6,7 @@
 </div>
 <p align="center">
  Sou Gabriel Cotts, estudante de Engenharia de Software no Centro Universitário de Brasília (UniCEUB), apaixonado por desenvolvimento de software, automação e tecnologia.
-  Atualmente concentro meus estudos em Java, Banco de Dados, linguagem C, Git/GitHub, n8n e Inteligência Artificial, desenvolvendo projetos para aprimorar minhas habilidades como futuro Desenvolvedor Full Stack.
+  Atualmente concentro meus estudos em Java, Banco de Dados, linguagem C, Git/GitHub e Inteligência Artificial, desenvolvendo projetos para aprimorar minhas habilidades como futuro Desenvolvedor Full Stack.
 
 </p>
 
@@ -14,14 +14,14 @@
 
 
 ### Portfólio
-**Acesse meu portifólio**
+**Acesse meu portfólio**
 <p align="center">
 
-<a href="https://github.com/Gabrielcotts/GabrielCottsPortif-lio/blob/main/README.md">
+<a href="https://github.com/Gabrielcotts/GabrielCottsPortf-lio/blob/main/README.md">
 <img src="https://img.shields.io/badge/📁-Portfólio-blue?style=for-the-badge">
 </a>
 
-<a href="https://sites.google.com/view/portifolio-dev/p%C3%A1gina-inicial">
+<a href="https://sites.google.com/view/portfolio-dev/p%C3%A1gina-inicial">
 <img src="https://img.shields.io/badge/🌐-Website-success?style=for-the-badge">
 </a>
 
@@ -45,6 +45,8 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
