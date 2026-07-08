@@ -62,12 +62,10 @@
 ---
 
 ### Status do GitHub
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrielcotts&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas de Gabriel">
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabrielcotts&theme=dark" alt="Gabriel Cotts Streak">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrielcotts&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas de Gabriel"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Gabrielcotts&theme=github-dark" alt="GitHub Streak"/>
 </p>
 
 </p>
