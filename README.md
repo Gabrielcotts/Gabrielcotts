@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/📁-Portfólio-blue?style=for-the-badge">
 </a>
 
-<a href="https://sites.google.com/view/portfolio-dev/p%C3%A1gina-inicial">
+<a href="https://sites.google.com/view/portifolio-dev/p%C3%A1gina-inicial">
 <img src="https://img.shields.io/badge/🌐-Website-success?style=for-the-badge">
 </a>
 
