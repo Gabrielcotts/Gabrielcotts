@@ -8,6 +8,8 @@
  Sou Gabriel Cotts, estudante de Engenharia de Software no Centro Universitário de Brasília (UniCEUB), apaixonado por desenvolvimento de software, automação e tecnologia.
   Atualmente concentro meus estudos em Java, Banco de Dados, linguagem C, Git/GitHub, n8n e Inteligência Artificial, desenvolvendo projetos para aprimorar minhas habilidades como futuro Desenvolvedor Full Stack.
 
+</p>
+
 ---
 
 
