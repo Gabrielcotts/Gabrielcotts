@@ -5,22 +5,33 @@
   </a>
 </div>
 <p align="center">
-  Me chamo Gabriel e sou estudante de Engenharia de Software na Centro Universitário de Brasília (UniCEUB).
+ Sou Gabriel Cotts, estudante de Engenharia de Software no Centro Universitário de Brasília (UniCEUB), apaixonado por desenvolvimento de software, automação e tecnologia.
+  Atualmente concentro meus estudos em Java, Banco de Dados, linguagem C, Git/GitHub, n8n e Inteligência Artificial, desenvolvendo projetos para aprimorar minhas habilidades como futuro Desenvolvedor Full Stack.
 
 ---
 
-## Portfólio
-**Acesse meu portifólio:**  
-https://github.com/Gabrielcotts/GabrielCottsPortif-lio/blob/main/README.md
 
-**Acesse meu site:**  
-https://sites.google.com/view/portifolio-dev/p%C3%A1gina-inicial
+### Portfólio
+**Acesse meu portifólio**
+<p align="center">
 
-**Veja minha apresentação profissional:**  
-https://docs.google.com/presentation/d/1Z2GWLbmGgnfagylWqHRctnM849YZ1W-N/edit
+<a href="LINK">
+<img src="https://img.shields.io/badge/📁-Portfólio-blue?style=for-the-badge">
+</a>
 
-**Veja meu plano de implantação:**  
-https://docs.google.com/document/d/1KJR4GziUgOID31VFtHm6D23fdlH1f7woygoiqUgKUtk/edit?usp=drive_link
+<a href="LINK">
+<img src="https://img.shields.io/badge/🌐-Website-success?style=for-the-badge">
+</a>
+
+<a href="LINK">
+<img src="https://img.shields.io/badge/🎤-Apresentação-orange?style=for-the-badge">
+</a>
+
+<a href="LINK">
+<img src="https://img.shields.io/badge/📄-Plano%20de%20Implantação-lightgrey?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
@@ -40,7 +51,7 @@ https://docs.google.com/document/d/1KJR4GziUgOID31VFtHm6D23fdlH1f7woygoiqUgKUtk/
 
 ---
 
-## Conecte-se comigo
+### Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-cotts-dos-anjos-a167193b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/Cerol_Acerola/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -50,7 +61,7 @@ https://docs.google.com/document/d/1KJR4GziUgOID31VFtHm6D23fdlH1f7woygoiqUgKUtk/
 
 ---
 
-## Status do GitHub
+### Status do GitHub
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrielcotts&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas de Gabriel">
 </p>
