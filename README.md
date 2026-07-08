@@ -70,6 +70,9 @@ Documentação da minha evolução técnica em linguagem C:
 ---
 
 ## Portfólio
+**Acesse meu portifólio:**  
+https://github.com/Gabrielcotts/GabrielCottsPortif-lio/blob/main/README.md
+
 **Acesse meu site:**  
 https://sites.google.com/view/portifolio-dev/p%C3%A1gina-inicial
 
