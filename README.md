@@ -66,13 +66,3 @@
   <a href="https://www.youtube.com/@GabrielCottsDosAnjos" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
----
-
-### Status do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrielcotts&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas de Gabriel"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Gabrielcotts&theme=github-dark" alt="GitHub Streak"/>
-</p>
-
-</p>
