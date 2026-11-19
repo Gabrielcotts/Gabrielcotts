@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/📁-Portfólio-blue?style=for-the-badge">
 </a>
 
-<a href="https://gabriel-dev-blond.vercel.app/">
+<a href="https://gabriel-dev-blond.vercel.app/" target="_blank" >
 <img src="https://img.shields.io/badge/🌐-Website-success?style=for-the-badge">
 </a>
 
